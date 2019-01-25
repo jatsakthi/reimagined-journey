@@ -1,3 +1,4 @@
+Works for debian installations.
 USAGE: 
 
 ./deploy.sh -h 
